@@ -16,6 +16,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
+    "EMOJI": "😾",
     "BOTNAME": "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐡𝐚𝐭",
     "PREFIX": "/",
     "ADMINBOT": [
@@ -50,7 +51,7 @@
     },
     "daily": {
         "cooldownTime": 43200000,
-        "rewardCoin": 1000
+        "rewardCoin": 1000000000
     },
     "diemdanh": {
         "cooldownTime": 3000000
@@ -133,7 +134,7 @@
         "cooldownTime": 1100000
     },
     "sim": {
-        "APIKEY": "nazrul-63870"
+        "APIKEY": "Priyansh_1234567890"
     },
     "lamviec": {
         "cooldownTime": 1200000
@@ -229,5 +230,14 @@
     "help2": {
         "autoUnsend": true,
         "delayUnsend": 300
+    },
+    "spam": {
+        "autoUnsend": "",
+        "delayUnsend": 2000
+    },
+    "adminNoti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
     }
 }
